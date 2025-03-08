@@ -33,12 +33,6 @@ node app.js
 - `display occupied_slots <vehicle_type>` - Displays occupied slot numbers.
 - `exit` - Terminates the system.
 
-## 🏗 Contributing
-Feel free to contribute by opening an issue or submitting a pull request.
-
-## 📜 License
-This project is open-source and available for modification as per your needs.
-
 ## 🌟 Show Your Support
 If you like this project, give it a ⭐ on GitHub!
 
