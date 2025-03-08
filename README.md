@@ -13,7 +13,7 @@ A command-line based parking lot management system built in JavaScript.
 1. Clone the repository:
    ```sh
    git clone https://github.com/aniketvs/parking-lot.git
-   cd parking-lot-system
+   cd parking-lot
    ```
 
 ## 🚀 Usage
