@@ -4,7 +4,7 @@ A command-line based parking lot management system built in JavaScript.
 
 ## 📂 Project Structure
 
-- `index.js` - Initializes and starts the parking lot system.
+- `app.js` - Initializes and starts the parking lot system.
 - `parkingLotSystem.js` - Manages user commands and system interactions.
 - `parkingLot.js` - Handles core parking lot operations.
 
@@ -15,16 +15,12 @@ A command-line based parking lot management system built in JavaScript.
    git clone <repo-url>
    cd parking-lot-system
    ```
-2. Install dependencies (if any):
-   ```sh
-   npm install
-   ```
 
 ## 🚀 Usage
 
 Run the application using:
 ```sh
-node index.js
+node app.js
 ```
 
 ### 🔹 Commands
